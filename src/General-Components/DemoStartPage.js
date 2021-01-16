@@ -26,7 +26,9 @@ const DemoStartPage = (props) => {
                         </h4>
                         <p>
                             On this page, you can try out the experimental apps presented in the research paper "Does People’s Keyboard Typing Reflect their Stress Level – An Explorative Study"
-                            by Freihaut & Göritz. The source code of this app is available in a repository at ...
+                            by Freihaut & Göritz. The source code of this app is available
+                            <a href="https://github.com/Freihaut/Experiments-Live-Demo" target="_blank" rel="noreferrer">on github</a> and is
+                            additionally archived in a data repository.
                         </p>
                         <p>
                             The experimental apps on this page are demo versions. They are identical to the
