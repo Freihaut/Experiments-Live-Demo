@@ -1,4 +1,15 @@
-# TESTESTEST
+## Experimental Demo App
+
+This repository contains the experimental demo app to view the experiments done in the labratory- and online study.
+
+The demo app (and the original study apps) are React.js web apps. See the official react documentation below on how to use the app.
+
+The original study apps were connected to a Firebase backend to save the study data. In the demo app, all data is logged in the console and no data is saved in a database.
+
+To view the experimental demo app, click [here](https://freihaut.github.io/Experiments-Live-Demo/).
+
+
+## ----- Default React readme below -----
 
 # Getting Started with Create React App
 
